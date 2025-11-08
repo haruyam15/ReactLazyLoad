@@ -1,0 +1,2 @@
+# ReactLazyLoad
+Created with CodeSandbox
